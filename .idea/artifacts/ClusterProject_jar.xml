@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ClusterProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClusterProject_jar</output-path>
+    <root id="archive" name="ClusterProject.jar">
+      <element id="module-output" name="ClusterProject" />
+    </root>
+  </artifact>
+</component>
